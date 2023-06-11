@@ -23,9 +23,9 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 
 #### :muscle: Things I am challenging myself with:
 
-- Waking up earlier to make good use of the day 
-- Coding at least 4 hours a day & Exercising 3 days a week
-- Reading some interesting books
+- **Meditate** 🧘‍♂️
+- Issue hunter [G6v5 RectNode](https://github.com/antvis/G6/issues/4574) 🥷
+- Develope the IIGraph (Increamental Interactive Graph) 
 - Roll with the punches！👊
 
 #### :computer: Programming languages and tools: 
