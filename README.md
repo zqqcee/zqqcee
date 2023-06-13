@@ -24,7 +24,7 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 #### :muscle: Things I am challenging myself with:
 
 - **Meditate** 🧘‍♂️
-- Issue hunter [G6v5 RectNode](https://github.com/antvis/G6/issues/4574) 🥷
+- Issue hunter of [G6v5 RectNode](https://github.com/antvis/G6/issues/4574) 🥷
 - Develope the IIGraph (Increamental Interactive Graph) 
 - Roll with the punches！👊
 
