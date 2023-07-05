@@ -18,8 +18,7 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 
 - Finish my Computer Engineering Master Degree 
 - Business cooperation with [Huawei cloud](https://github.com/bi4group)  *on **Visualization and Visual Analytics*** :loop:
-- learn *React|Typescript* and try to develop a simple visualization system.
-  [**Highly recommended [Type Challange](https://github.com/type-challenges/type-challenges) for Typescript learning! Interesting game!**]
+- [**Highly recommended [Type Challange](https://github.com/type-challenges/type-challenges) for Typescript learning! Interesting game!**]
 
 #### :muscle: Things I am challenging myself with:
 
