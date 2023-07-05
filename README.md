@@ -11,7 +11,7 @@
 
 Welcome to my Github page! I am zqqcee and I am currently finishing my Computer Engineering Master degree at the CSU!  
 
-<img align="right" alt="img" src="https://github.com/zqqcee/zqqcee/blob/main/homepage.jpeg" width="50%" height="auto" />
+<img align="right" alt="img" src="logo2.jpeg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
