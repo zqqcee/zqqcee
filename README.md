@@ -25,7 +25,6 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 - **Meditate** 
 - Issue hunter of **G6@v5** [RectNode](https://github.com/antvis/G6/issues/4574)|[Quadratic](https://github.com/antvis/G6/issues/4576)|[ContextMenu](https://github.com/antvis/G6/issues/4579)|[Tooltip](https://github.com/antvis/G6/issues/4578) 🥷
 - Develope the **IIGraph** (Increamental Interactive Graph)
-- [ChitChat](https://zqqcee.github.io/chitchat/)🤣
 
 #### :computer: Programming languages and tools: 
 
