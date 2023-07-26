@@ -12,13 +12,13 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 <img align="right" alt="img" src="logo2.jpeg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
+#### 🌱 Work onto: 
 
 - Finish my Computer Engineering Master Degree 
 - Business cooperation with [Huawei cloud](https://github.com/bi4group)  *on **Visualization and Visual Analytics*** :loop:
 - [**Highly recommended [Type Challange](https://github.com/type-challenges/type-challenges) for Typescript learning! Interesting game!**]
 
-#### :muscle: Things I am challenging myself with:
+#### :muscle: Focus on:
 
 - **Meditate** 
 - Issue hunter of **G6@v5** [RectNode](https://github.com/antvis/G6/issues/4574)|[Quadratic](https://github.com/antvis/G6/issues/4576)|[ContextMenu](https://github.com/antvis/G6/issues/4579)|[Tooltip](https://github.com/antvis/G6/issues/4578) 🥷
