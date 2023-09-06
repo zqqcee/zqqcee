@@ -16,13 +16,13 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 
 - Finish my Computer Engineering Master Degree 
 - Business cooperation with [Huawei cloud](https://github.com/bi4group)  *on **Visualization and Visual Analytics*** :loop:
-- [**Highly recommended [Type Challange](https://github.com/type-challenges/type-challenges) for Typescript learning! Interesting game!**]
+- One of the contributor of [AntV G6](https://github.com/antvis/G6) 🐜
 
 #### :muscle: Focus on:
 
 - **Meditate** 
-- Issue hunter of **G6@v5** [RectNode](https://github.com/antvis/G6/issues/4574)|[Quadratic](https://github.com/antvis/G6/issues/4576)|[ContextMenu](https://github.com/antvis/G6/issues/4579)|[Tooltip](https://github.com/antvis/G6/issues/4578) 🥷
 - Develope the **IIGraph** (Increamental Interactive Graph)
+- LLM Primary Education Software 📖
 
 #### :computer: Programming languages and tools: 
 
