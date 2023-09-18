@@ -20,7 +20,8 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 
 #### :muscle: Focus on:
 
-- **Meditate** 
+- **Meditate**
+- Graph Visualization
 - Develope the **IIGraph** (Increamental Interactive Graph)
 - LLM Primary Education Software 📖
 
