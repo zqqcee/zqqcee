@@ -13,7 +13,7 @@ Welcome to my Github page! I am zqqcee and I am currently finishing my Computer 
 
 - Finish my Computer Engineering Master Degree 
 - Business cooperation with [Huawei cloud](https://github.com/bi4group)  *on **Visualization and Visual Analytics*** :loop:
-- One of the contributor of [AntV G6](https://github.com/antvis/G6) 🐜
+- Contributor of [AntV G6](https://github.com/antvis/G6) 🐜
 
 #### :muscle: Focus on:
 
